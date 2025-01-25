@@ -6,6 +6,11 @@ I’m a 20-year-old Telecommunications and Computer Engineering B.Sc. student at
 
 ![GitHub_HS_badge](https://img.shields.io/static/v1?label=&message=HackerSchool&style=plastic&color=6BBA75&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAZdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuMjHxIGmVAAAAdklEQVQ4T2PI3lX6nxxMHY0+lYEokiCcti4fQwyEUTRqaqj/9yz0RVEA0ggSRxYDYQyN6IpgGtHFqasxZXUOHCcDMdEakdkg7F3qDxeHYbxOhfFB2C3HCy4OwgT9iKwZWRxFIwijK4CJEdSIC5OtER2TqbH0PwCeFtOXtCYKAQAAAABJRU5ErkJggg==)
 
+## Languages
+![GitHub_C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![GitHub_JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![GitHub_PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ## Interests and GitHub Stats
 
 <a href="https://github.com/F3cha">
