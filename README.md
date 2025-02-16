@@ -42,3 +42,5 @@ My main interests are:
    * Watches
 
    * Building Keyboards
+
+   * 3d Printing
